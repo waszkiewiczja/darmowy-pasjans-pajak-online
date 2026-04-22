@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card background -->
+  <rect x="4" y="2" width="56" height="60" rx="6" ry="6" fill="#fff" stroke="#1a3c6b" stroke-width="2"/>
+  <!-- Spider symbol -->
+  <circle cx="32" cy="24" r="6" fill="#1a3c6b"/>
+  <ellipse cx="32" cy="34" rx="8" ry="10" fill="#1a3c6b"/>
+  <!-- Legs -->
+  <line x1="24" y1="28" x2="14" y2="20" stroke="#1a3c6b" stroke-width="2" stroke-linecap="round"/>
+  <line x1="24" y1="32" x2="12" y2="30" stroke="#1a3c6b" stroke-width="2" stroke-linecap="round"/>
+  <line x1="24" y1="36" x2="12" y2="40" stroke="#1a3c6b" stroke-width="2" stroke-linecap="round"/>
+  <line x1="24" y1="40" x2="14" y2="48" stroke="#1a3c6b" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="28" x2="50" y2="20" stroke="#1a3c6b" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="32" x2="52" y2="30" stroke="#1a3c6b" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="36" x2="52" y2="40" stroke="#1a3c6b" stroke-width="2" stroke-linecap="round"/>
+  <line x1="40" y1="40" x2="50" y2="48" stroke="#1a3c6b" stroke-width="2" stroke-linecap="round"/>
+</svg>
